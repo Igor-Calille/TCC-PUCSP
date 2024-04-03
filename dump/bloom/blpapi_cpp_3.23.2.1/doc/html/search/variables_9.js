@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['seconds',['seconds',['../group__blpapi__datetime.html#gabc24745c4d5c274813c9e3cb5e169242',1,'blpapi_Datetime_tag']]],
+  ['serviceavailabilityinfo',['ServiceAvailabilityInfo',['../structBloombergLP_1_1blpapi_1_1Names.html#a7e69393466a2585092cb699cfa93913f',1,'BloombergLP::blpapi::Names']]],
+  ['servicederegistered',['ServiceDeregistered',['../structBloombergLP_1_1blpapi_1_1Names.html#a133a9f086f9f0a2759883d5b46a120bd',1,'BloombergLP::blpapi::Names']]],
+  ['servicedown',['ServiceDown',['../structBloombergLP_1_1blpapi_1_1Names.html#a05bb9c70a5e3f0842d706016ee889741',1,'BloombergLP::blpapi::Names']]],
+  ['serviceopened',['ServiceOpened',['../structBloombergLP_1_1blpapi_1_1Names.html#a7d3ab3f844486a94c2a60e994c90cfc0',1,'BloombergLP::blpapi::Names']]],
+  ['serviceopenfailure',['ServiceOpenFailure',['../structBloombergLP_1_1blpapi_1_1Names.html#ab973df984f62fc6c1c7de13f37e067b4',1,'BloombergLP::blpapi::Names']]],
+  ['serviceregistered',['ServiceRegistered',['../structBloombergLP_1_1blpapi_1_1Names.html#aaea06fdef7f7daf1485fd4e5f784fe51',1,'BloombergLP::blpapi::Names']]],
+  ['serviceregisterfailure',['ServiceRegisterFailure',['../structBloombergLP_1_1blpapi_1_1Names.html#a8239b2ab9c382f3cacf8b4853f91aed7',1,'BloombergLP::blpapi::Names']]],
+  ['serviceup',['ServiceUp',['../structBloombergLP_1_1blpapi_1_1Names.html#a0c40d3473b50407c951d523a416f194d',1,'BloombergLP::blpapi::Names']]],
+  ['sessionclusterinfo',['SessionClusterInfo',['../structBloombergLP_1_1blpapi_1_1Names.html#a40e30e107e269cf9e135f73ea51e208c',1,'BloombergLP::blpapi::Names']]],
+  ['sessionclusterupdate',['SessionClusterUpdate',['../structBloombergLP_1_1blpapi_1_1Names.html#aed5c742c5daa1000bddbb8f1afc8224b',1,'BloombergLP::blpapi::Names']]],
+  ['sessionconnectiondown',['SessionConnectionDown',['../structBloombergLP_1_1blpapi_1_1Names.html#ad8966a6d91360146251d61373df3b10b',1,'BloombergLP::blpapi::Names']]],
+  ['sessionconnectionup',['SessionConnectionUp',['../structBloombergLP_1_1blpapi_1_1Names.html#afacafffa83cf03ab5a582d7018fe0abe',1,'BloombergLP::blpapi::Names']]],
+  ['sessionstarted',['SessionStarted',['../structBloombergLP_1_1blpapi_1_1Names.html#a38ff9b0ae3fc96134ac0310d4d28d118',1,'BloombergLP::blpapi::Names']]],
+  ['sessionstartupfailure',['SessionStartupFailure',['../structBloombergLP_1_1blpapi_1_1Names.html#a1de2b379ef34ca75547c1ec007e8f86c',1,'BloombergLP::blpapi::Names']]],
+  ['sessionterminated',['SessionTerminated',['../structBloombergLP_1_1blpapi_1_1Names.html#a182d705cc584d7b65e1e3bcf12d3d16e',1,'BloombergLP::blpapi::Names']]],
+  ['slowconsumerwarning',['SlowConsumerWarning',['../structBloombergLP_1_1blpapi_1_1Names.html#aac247563020a222e2fa2be3638b8f5e1',1,'BloombergLP::blpapi::Names']]],
+  ['slowconsumerwarningcleared',['SlowConsumerWarningCleared',['../structBloombergLP_1_1blpapi_1_1Names.html#a512ab4f78ad3cbfc1ee7823a46ff3217',1,'BloombergLP::blpapi::Names']]],
+  ['subscriptionfailure',['SubscriptionFailure',['../structBloombergLP_1_1blpapi_1_1Names.html#a27276fa7ca84eb187d69b6087d726d1a',1,'BloombergLP::blpapi::Names']]],
+  ['subscriptionstarted',['SubscriptionStarted',['../structBloombergLP_1_1blpapi_1_1Names.html#a2858a502e124114bd0b4ee20d066d54d',1,'BloombergLP::blpapi::Names']]],
+  ['subscriptionstreamsactivated',['SubscriptionStreamsActivated',['../structBloombergLP_1_1blpapi_1_1Names.html#a74dc9476324c8f536bedbed116b1adc6',1,'BloombergLP::blpapi::Names']]],
+  ['subscriptionstreamsdeactivated',['SubscriptionStreamsDeactivated',['../structBloombergLP_1_1blpapi_1_1Names.html#a848196bb569176166cdf56f6405c1b8d',1,'BloombergLP::blpapi::Names']]],
+  ['subscriptionstring',['subscriptionString',['../structBloombergLP_1_1blpapi_1_1SubscriptionPreprocessError.html#a4d13e32e0b0329252dd24e4dfda03e81',1,'BloombergLP::blpapi::SubscriptionPreprocessError']]],
+  ['subscriptionterminated',['SubscriptionTerminated',['../structBloombergLP_1_1blpapi_1_1Names.html#a51f44b8bda9d1f65739408c465497230',1,'BloombergLP::blpapi::Names']]]
+];
