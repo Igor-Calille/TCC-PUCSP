@@ -1,0 +1,25 @@
+var blpapi__authoptions_8h =
+[
+    [ "blpapi_AuthApplication_copy", "blpapi__authoptions_8h.html#a62469e22ce8c1e028d7c4880ccd7a6d4", null ],
+    [ "blpapi_AuthApplication_create", "blpapi__authoptions_8h.html#a569ecc7c06ea38d884ebd4c04a5c967c", null ],
+    [ "blpapi_AuthApplication_destroy", "blpapi__authoptions_8h.html#a44e8b080a762476165335890e3ecc8cf", null ],
+    [ "blpapi_AuthApplication_duplicate", "blpapi__authoptions_8h.html#ab6894fc68805db5f67da5033c4aea62d", null ],
+    [ "blpapi_AuthOptions_copy", "blpapi__authoptions_8h.html#a9ffef13b9edfbecdb33d9731c4a44faa", null ],
+    [ "blpapi_AuthOptions_create_default", "blpapi__authoptions_8h.html#afb4021807ee843a8f572e27c5044d149", null ],
+    [ "blpapi_AuthOptions_create_forAppMode", "blpapi__authoptions_8h.html#afda14115e320a19f309bd7c919b6b604", null ],
+    [ "blpapi_AuthOptions_create_forToken", "blpapi__authoptions_8h.html#a23a551888fd642158986ecc1f6c861ed", null ],
+    [ "blpapi_AuthOptions_create_forUserAndAppMode", "blpapi__authoptions_8h.html#a06cbdcb7d1af35dc750a203c7e528638", null ],
+    [ "blpapi_AuthOptions_create_forUserMode", "blpapi__authoptions_8h.html#a3dcc79e1fffcb6ea496c7c6510d9f5ab", null ],
+    [ "blpapi_AuthOptions_destroy", "blpapi__authoptions_8h.html#a2b46c230059fdd838edcd8f5ac52cf4e", null ],
+    [ "blpapi_AuthOptions_duplicate", "blpapi__authoptions_8h.html#a4f4fd65d679f3e9f4f0eec36f35223f4", null ],
+    [ "blpapi_AuthToken_copy", "blpapi__authoptions_8h.html#a01a5942890a9c813e4b0ae1a8963be3e", null ],
+    [ "blpapi_AuthToken_create", "blpapi__authoptions_8h.html#ad88e2999041b8666d9d61446b7e25253", null ],
+    [ "blpapi_AuthToken_destroy", "blpapi__authoptions_8h.html#ac557fdbf47c1ae125ba164fe7e809ae4", null ],
+    [ "blpapi_AuthToken_duplicate", "blpapi__authoptions_8h.html#a76e25dcf00028f1665e3283c26029b76", null ],
+    [ "blpapi_AuthUser_copy", "blpapi__authoptions_8h.html#a5a575a2831dfbdf84fa5b0967b9f766f", null ],
+    [ "blpapi_AuthUser_createWithActiveDirectoryProperty", "blpapi__authoptions_8h.html#a55ed6c2fbe8e50cda30919287564ce81", null ],
+    [ "blpapi_AuthUser_createWithLogonName", "blpapi__authoptions_8h.html#a3e40e600764047e95bd5271a5376c3f3", null ],
+    [ "blpapi_AuthUser_createWithManualOptions", "blpapi__authoptions_8h.html#ad99004b15c1bd4c12f8eed1a7aa78e26", null ],
+    [ "blpapi_AuthUser_destroy", "blpapi__authoptions_8h.html#a7f7f09bf11ce099facd5e2fc6a2c728d", null ],
+    [ "blpapi_AuthUser_duplicate", "blpapi__authoptions_8h.html#a25a6ca7a63a5ad397fb3435612bbe5a3", null ]
+];

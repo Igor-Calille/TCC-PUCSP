@@ -1,0 +1,28 @@
+var blpapi__service_8h =
+[
+    [ "TestService", "structBloombergLP_1_1blpapi_1_1Service_1_1TestService.html", null ],
+    [ "blpapi_Operation_description", "blpapi__service_8h.html#adfc18950f034c53f7be356a7e76a5a50", null ],
+    [ "blpapi_Operation_name", "blpapi__service_8h.html#a9e5afb4641fc33b93f0ff2442d739108", null ],
+    [ "blpapi_Operation_numResponseDefinitions", "blpapi__service_8h.html#a950bae5c3ad087e9fdebf29081c9319e", null ],
+    [ "blpapi_Operation_requestDefinition", "blpapi__service_8h.html#a352f2314f4f46301a3b74be4247aaa25", null ],
+    [ "blpapi_Operation_responseDefinition", "blpapi__service_8h.html#aa02e3b0a1a60b50132fef96403109a6e", null ],
+    [ "blpapi_Operation_responseDefinitionFromName", "blpapi__service_8h.html#a1e62a636cc22d912a6c042687b5ab4a5", null ],
+    [ "blpapi_Service_addRef", "blpapi__service_8h.html#a75b561869327830fb44f6bc99f7a17a5", null ],
+    [ "blpapi_Service_authorizationServiceName", "blpapi__service_8h.html#a29e545d92c89360d7925d1bb0092325b", null ],
+    [ "blpapi_Service_createAdminEvent", "blpapi__service_8h.html#afe95b23e514823c37e356b96f8f6f208", null ],
+    [ "blpapi_Service_createAuthorizationRequest", "blpapi__service_8h.html#a7373bcd459e3ca6b27b60a7bea51c829", null ],
+    [ "blpapi_Service_createPublishEvent", "blpapi__service_8h.html#a14e99815e7d8c2906797df4f4544bbde", null ],
+    [ "blpapi_Service_createRequest", "blpapi__service_8h.html#a7513bbf048f23eb60a8418f535fa2171", null ],
+    [ "blpapi_Service_createResponseEvent", "blpapi__service_8h.html#a3515c8ffd98754b0aba97f4129e4cf7f", null ],
+    [ "blpapi_Service_description", "blpapi__service_8h.html#a5bfb8becccc7aef0b30fd0b9dd336eb8", null ],
+    [ "blpapi_Service_getEventDefinition", "blpapi__service_8h.html#a1f06e2cf2e4bebaa5e8287e75112f668", null ],
+    [ "blpapi_Service_getEventDefinitionAt", "blpapi__service_8h.html#a7999f5320268c0ec8ec876f8926fa48c", null ],
+    [ "blpapi_Service_getOperation", "blpapi__service_8h.html#a8b18e729a3b9acb92579c3719da212b9", null ],
+    [ "blpapi_Service_getOperationAt", "blpapi__service_8h.html#a0f378e5998b0148a2f02e95289e10b4b", null ],
+    [ "blpapi_Service_name", "blpapi__service_8h.html#acf6492d2beac46610c0f67a250da7f36", null ],
+    [ "blpapi_Service_numEventDefinitions", "blpapi__service_8h.html#a821f70eedd12d4a46b3e79b7b046ce6e", null ],
+    [ "blpapi_Service_numOperations", "blpapi__service_8h.html#adbbec68239a3f5cd6854ebc28a0f9442", null ],
+    [ "blpapi_Service_print", "blpapi__service_8h.html#a217a521f9d31df8a7bde2b8fa912d444", null ],
+    [ "blpapi_Service_release", "blpapi__service_8h.html#a85932bf1c8a4a80b26b96bda79efe043", null ],
+    [ "operator<<", "blpapi__service_8h.html#a2b0e5e519eea274e284f25df39390fba", null ]
+];
